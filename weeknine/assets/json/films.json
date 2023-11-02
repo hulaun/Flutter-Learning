@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Citizen Kane",
+    "creator": "Orson Welles",
+    "yearReleased": 1941
+  },
+  {
+    "name": "The Shawshank Redemption",
+    "creator": "Frank Darabont",
+    "yearReleased": 1994
+  },
+  {
+    "name": "The Godfather",
+    "creator": "Francis Ford Coppola",
+    "yearReleased": 1972
+  },
+  {
+    "name": "Pulp Fiction",
+    "creator": "Quentin Tarantino",
+    "yearReleased": 1994
+  },
+  {
+    "name": "The Dark Knight",
+    "creator": "Christopher Nolan",
+    "yearReleased": 2008
+  }
+]
